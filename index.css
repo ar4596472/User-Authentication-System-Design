@@ -12,16 +12,16 @@
 }
 
 .nav-item a.nav-link:hover {
-    color: #ffffff; /* Change text color on hover */
-    background-color: #2b4b6a; /* Add a background color on hover */
-    text-decoration: underline; /* Add an underline effect */
-    transition: 0.3s ease-in-out; /* Smooth transition */
+    color: #ffffff; 
+    background-color: #2b4b6a; 
+    text-decoration: underline; 
+    transition: 0.3s ease-in-out; 
 }
 
 .nav-item.dropdown .dropdown-menu .dropdown-item:hover {
-    background-color: #396189; /* Change background color for dropdown items */
-    color: #ffffff; /* Change text color */
-    transition: 0.3s ease-in-out; /* Smooth transition */
+    background-color: #396189; 
+    color: #ffffff; 
+    transition: 0.3s ease-in-out;
 }
 
 #content3
